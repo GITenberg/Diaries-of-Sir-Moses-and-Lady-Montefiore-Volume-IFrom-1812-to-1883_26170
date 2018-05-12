@@ -6,13 +6,13 @@ covers:
 creator:
   authors:
   - agent_name: Montefiore, Judith Cohen, Lady
-    birthdate: &id001 1784
+    birthdate: 1784
     deathdate: 1862
     gutenberg_agent_id: '4317'
     url: http://www.gutenberg.org/2009/agents/4317
   - agent_name: Montefiore, Moses, Sir
     alias: Montefiore, Sir Moses
-    birthdate: *id001
+    birthdate: 1784
     deathdate: 1885
     gutenberg_agent_id: '31844'
     url: http://www.gutenberg.org/2009/agents/31844
@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '31845'
     url: http://www.gutenberg.org/2009/agents/31845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26170#Diaries-of-Sir-Moses-and-Lady-Montefiore-Volume-IFrom-1812-to-1883
 gutenberg_issued: '2008-08-02'
 gutenberg_type: Text
 identifiers:
